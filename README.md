@@ -7,6 +7,10 @@ I'm Juan David, I'm 24 years old, electronic engineer and passionate about robot
 I study at the University of Santo Tomas where I developed interesting projects in the robot pepper with the GED research group.
 
 I love to learn and innovate, that's why I dedicate my time to look for courses or to develop projects in order to create something new.
+
+In other aspects, I love playing basketball, sports and playing video games like Lol, Mortal Kombat, Halo.
+
+I love programming and I really enjoy the programming languages that I learn.
 <!--Intro end-->
 
 <!--- stats & Trophy (start) -->
