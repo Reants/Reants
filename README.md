@@ -49,19 +49,19 @@ I love programming and I really enjoy the programming languages that I learn.
 ### My Projects ✨:
   
 <a href="https://github.com/Reants/Pepper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Reants&repo=Pepper&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Reants/-Exercises">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=robofriends&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Reants&repo=-Exercises&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Reants/StitchInvitation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Picture-Sharing-app&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Reants&repo=StitchInvitation&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Reants/Full-Stack-Open">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Chat-app&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Reants&repo=Full-Stack-Open&theme=tokyonight" />
 </a>
 
 
