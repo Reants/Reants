@@ -77,10 +77,20 @@ I love programming and I really enjoy the programming languages that I learn.
 &emsp;
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+[![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B)](https://isocpp.org/)
+[![C#](https://img.shields.io/badge/-C%23-000?&logo=C-Sharp)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+
 ### Misc tools:
 &emsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
+[![Matlab](https://img.shields.io/badge/-Matlab-000?&logo=Mathworks)](https://www.mathworks.com/products/matlab.html)
+[![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-000?&logo=Visual-Studio)](https://visualstudio.microsoft.com/)
+[![Proteus](https://img.shields.io/badge/-Proteus-000?&logo=protondb)](https://www.labcenter.com/downloads/)
+[![Wolfram Mathematica](https://img.shields.io/badge/-Mathematica-000?&logo=Wolfram)](https://www.wolfram.com/mathematica/)
+[![Ubuntu 20.04](https://img.shields.io/badge/-Ubuntu%2020.04-000?&logo=Ubuntu)](https://releases.ubuntu.com/20.04/)
+[![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows)](https://www.microsoft.com/software-download/windows10)
+[![Pepper (Naoqi)](https://img.shields.io/badge/-Pepper%20(NAOqi)-000?&logo=SoftBank-Robotics)](https://developer.softbankrobotics.com/naoqi-os)
 
 
 <hr>
