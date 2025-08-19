@@ -75,6 +75,8 @@ I love programming and I really enjoy the programming languages that I learn.
 &emsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2B%2B&logoColor=white)
+
 ### Frontend development:
 &emsp;
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
