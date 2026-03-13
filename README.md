@@ -58,7 +58,7 @@ Outside of tech I enjoy:
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu"/>
-  <img src="https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=black"/>
+<img src="https://cdn.simpleicons.org/roboflow/6706CE" height="50"/>
 </p>
 
 ---
