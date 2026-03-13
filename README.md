@@ -33,39 +33,32 @@ Outside of tech I enjoy:
 
 ---
 
-# ⚙️ Robotics Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,opencv,ubuntu" />
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/ROS2-Robot%20Operating%20System-blue?style=for-the-badge&logo=ros"/>
-<img src="https://img.shields.io/badge/NAOqi-Pepper%20SDK-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-green?style=for-the-badge&logo=opencv"/>
-
-</p>
-
----
-
 # 🧰 Tech Stack
 
-### Programming Languages
+### 🤖 Robotics & AI
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,opencv,ubuntu"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/ROS2-Robot%20Operating%20System-blue?style=for-the-badge&logo=ros"/>
+<img src="https://img.shields.io/badge/NAOqi-Pepper%20SDK-orange?style=for-the-badge"/>
+</p>
+
+### 💻 Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,js,cpp,cs"/>
 </p>
 
-### Frontend Development
+### 🌐 Frontend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css"/>
 </p>
 
-### Tools & Technologies
+### 🛠 Tools & Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu"/>
