@@ -38,13 +38,9 @@ Outside of tech I enjoy:
 ### 🤖 Robotics & AI
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,opencv,ubuntu"/>
+<img src="https://skillicons.dev/icons?i=opencv"/>
 </p>
 
-<p>
-<img src="https://img.shields.io/badge/ROS2-Robot%20Operating%20System-blue?style=for-the-badge&logo=ros"/>
-<img src="https://img.shields.io/badge/NAOqi-Pepper%20SDK-orange?style=for-the-badge"/>
-</p>
 
 ### 💻 Programming Languages
 
