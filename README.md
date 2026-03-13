@@ -1,7 +1,7 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Juan+David+Avenda%C3%B1o;Robotics+Engineer;Frontend+Developer;ROS2+%7C+Computer+Vision+%7C+AI;Pepper+Robot+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Juan+David+Avenda%C3%B1o;Electronic+Engineer;Frontend+Developer;ROS2+%7C+Computer+Vision+%7C+AI;Pepper+Robot+Developer" />
 </p>
 
 ---
