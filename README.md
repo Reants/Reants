@@ -38,7 +38,7 @@ Outside of tech I enjoy:
 ### 🤖 Robotics & AI
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,opencv"/>
+<img src="https://skillicons.dev/icons?i=opencv"/>
 </p>
 
 <p>
