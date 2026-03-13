@@ -16,36 +16,57 @@ I enjoy building projects, learning new technologies and experimenting with diff
 
 Outside of tech I enjoy:
 
-🏀 Basketball  
-🎮 Video games (League of Legends, Mortal Kombat, Halo)  
+🏀 Basketball
+🎮 Video games (League of Legends, Mortal Kombat, Halo)
 ⚡ Learning new technologies
 
 ---
 
 # 🤖 Robotics Experience
 
-• Development with **Pepper Robot (NAOqi)**  
-• Human-Robot Interaction  
-• Speech Recognition & Text-to-Speech  
-• Computer Vision  
-• ROS2 Development  
-• Social Robotics research projects  
+• Development with **Pepper Robot (NAOqi)**
+• Human-Robot Interaction
+• Speech Recognition & Text-to-Speech
+• Computer Vision
+• ROS2 Development
+• Social Robotics research projects
+
+---
+
+# ⚙️ Robotics Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,opencv,ubuntu" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/ROS2-Robot%20Operating%20System-blue?style=for-the-badge&logo=ros"/>
+<img src="https://img.shields.io/badge/NAOqi-Pepper%20SDK-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-green?style=for-the-badge&logo=opencv"/>
+
+</p>
 
 ---
 
 # 🧰 Tech Stack
 
 ### Programming Languages
+
 <p>
 <img src="https://skillicons.dev/icons?i=python,js,cpp,cs"/>
 </p>
 
 ### Frontend Development
+
 <p>
 <img src="https://skillicons.dev/icons?i=html,css"/>
 </p>
 
-### Tools
+### Tools & Technologies
+
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu"/>
 </p>
@@ -64,40 +85,50 @@ Outside of tech I enjoy:
 
 ---
 
-# 📈 Contribution Activity
+# 🤖 Robotics Projects
 
-<p align="center">
+Projects related to **social robotics, ROS2 and AI experimentation**.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Reants&theme=tokyo-night"/>
+<p>
+
+<a href="https://github.com/Reants/Robocup">
+<img src="https://img.shields.io/badge/Robotics-RoboCup-blue?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/Reants/Pepper">
+<img src="https://img.shields.io/badge/Robot-Pepper%20Projects-orange?style=for-the-badge&logo=github"/>
+</a>
 
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 💻 Web Development Projects
 
-<p align="center">
+Frontend experiments and UI projects built using **HTML, CSS and JavaScript**.
 
-<a href="https://github.com/Reants/Pepper">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Reants&repo=Pepper&theme=tokyonight"/>
+<p>
+
+<a href="https://github.com/Reants/Hufflepuf">
+<img src="https://img.shields.io/badge/Web-Hufflepuf-yellow?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://github.com/Reants/Robocup">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Reants&repo=Robocup&theme=tokyonight"/>
+<a href="https://github.com/Reants/Basquet">
+<img src="https://img.shields.io/badge/Web-Basketball%20Project-red?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/Reants/Halo">
+<img src="https://img.shields.io/badge/Web-Halo%20Project-green?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
 
+---
+
+# 📈 Contribution Activity
+
 <p align="center">
-
-<a href="https://github.com/Reants/-Exercises">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Reants&repo=-Exercises&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/Reants/StitchInvitation">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Reants&repo=StitchInvitation&theme=tokyonight"/>
-</a>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Reants&theme=tokyo-night"/>
 </p>
 
 ---
