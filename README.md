@@ -1,3 +1,5 @@
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Juan+David+Avenda%C3%B1o;Robotics+Engineer;Frontend+Developer;ROS2+%7C+Computer+Vision+%7C+AI;Pepper+Robot+Developer" />
 </p>
@@ -8,26 +10,26 @@
 
 🎓 Electronic Engineer passionate about **Robotics, Artificial Intelligence and Web Development**.
 
-I worked with the **Pepper social robot (NAOqi)** in the **GED research group** at the **University of Santo Tomas**, where I developed projects related to **human-robot interaction, speech systems, and computer vision**.
+I worked with the **Pepper robot (NAOqi)** in the **GED research group** at the **University of Santo Tomas**, developing projects focused on **human-robot interaction, speech systems and computer vision**.
 
-I enjoy learning new technologies, building projects, and experimenting with different programming languages.
+I enjoy building projects, learning new technologies and experimenting with different programming languages.
 
 Outside of tech I enjoy:
 
 🏀 Basketball  
 🎮 Video games (League of Legends, Mortal Kombat, Halo)  
-⚡ Learning new technologies and building side projects
+⚡ Learning new technologies
 
 ---
 
 # 🤖 Robotics Experience
 
 • Development with **Pepper Robot (NAOqi)**  
-• **Human-Robot Interaction** systems  
-• **Speech Recognition & Text-to-Speech**  
-• **Computer Vision** applications  
-• **ROS2** development  
-• Research projects in **social robotics**
+• Human-Robot Interaction  
+• Speech Recognition & Text-to-Speech  
+• Computer Vision  
+• ROS2 Development  
+• Social Robotics research projects  
 
 ---
 
@@ -43,7 +45,7 @@ Outside of tech I enjoy:
 <img src="https://skillicons.dev/icons?i=html,css"/>
 </p>
 
-### Tools & Technologies
+### Tools
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu"/>
 </p>
@@ -53,8 +55,11 @@ Outside of tech I enjoy:
 # 📊 GitHub Stats
 
 <p align="center">
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Reants&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reants&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -62,7 +67,9 @@ Outside of tech I enjoy:
 # 📈 Contribution Activity
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Reants&theme=tokyo-night"/>
+
 </p>
 
 ---
